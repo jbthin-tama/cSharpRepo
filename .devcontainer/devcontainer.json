@@ -14,8 +14,12 @@
 		"vscode": {
 			"settings": {},
 			"extensions": [
-				"streetsidesoftware.code-spell-checker"
-			]
+			"streetsidesoftware.code-spell-checker", // Correcteur orthographique
+			"ms-dotnettools.csharp",                 // Extension principale pour C#
+			"ms-vscode.vscode-typescript-next",      // Support pour TypeScript, utile pour les outils associés
+			"formulahendry.dotnet",                  // Gestion des projets .NET
+			"k--kato.docomment"                      // Générateur de commentaires XML pour C#
+		]
 		}
 	},
 
